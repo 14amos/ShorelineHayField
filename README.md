@@ -43,3 +43,6 @@ Copy `plugin/out/ShorelineHayField.dll` to `BepInEx/plugins/ShorelineHayField/`.
 - The hay bale model and the dry grass texture are Battlestate Games' Shoreline assets. The mod ships none of them: it
   reuses the hay prop already loaded on Shoreline and reads the grass texture from your own install at raid start.
 - Built with AI assistance (Claude Code).
+
+## License
+MIT (see `LICENSE`). It covers this mod's code only, not Battlestate Games' assets.
