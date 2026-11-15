@@ -1,0 +1,6 @@
+plugin/obj/
+plugin/bin/
+plugin/out/
+plugin/local.props
+dist/
+*.zip
